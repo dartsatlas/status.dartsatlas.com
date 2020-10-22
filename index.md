@@ -1,10 +1,11 @@
-# :warning: Thursday, 22-Oct
+# Thursday, 22-Oct  
+Darts Atlas is undergoing a brief maintenance period.
 
-:dart: Darts Atlas is undergoing a brief maintenance period.
+**Start Time:**  
+16:00 Central Time (U.S. & Canada)
 
-**Start Time:** 16:00 Central Time (U.S. & Canada)
-
-**Duration:** 20 minutes (approximate)
+**Duration:**  
+20 minutes (approximate)
 
 **Reason(s):**
 
