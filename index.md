@@ -2,7 +2,7 @@
 Darts Atlas is undergoing a brief maintenance period.
 
 **Start Time:**  
-17:00 Central Time (U.S. & Canada)
+16:40 Central Time (U.S. & Canada)
 
 **Duration:**  
 20 minutes (approximate)
