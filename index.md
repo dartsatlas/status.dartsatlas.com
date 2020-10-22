@@ -16,4 +16,4 @@ Darts Atlas is undergoing a brief maintenance period.
 
 - [hello@dartsatlas.com](mailto:hello@dartsatlas.com)
 - [twitter.com/dartsatlas](https://www.twitter.com/dartsatlas)
-- [facebook.com/dartsatlas](https://www.facebook.dartsatlas)
+- [facebook.com/dartsatlas](https://www.facebook.com/dartsatlas)
