@@ -1,5 +1,9 @@
 # Darts Atlas Status
 
+## Planned Downtime
+
+Darts Atlas will be temporarily offline on Saturday, January 16 for a planned upgrade to v1 of the application.
+
 No issues have been detected or reported.  
 Experiencing problems? Reach out through one of our support channels.
 
@@ -8,6 +12,21 @@ Experiencing problems? Reach out through one of our support channels.
 - [facebook.com/DartsAtlas](https://www.facebook.com/dartsatlas)
 
 ## Status History
+
+### 16-January, 2021
+
+05:30 - 06:00 Central Time (U.S. & Canada)
+
+**Type:**  
+Planned Maintenance
+
+**Reason(s):**  
+Darts Atlas v1 will be released, which will include several database migrations and a redesign of the interface.
+
+**Note(s):**  
+All data will be backed up before the migration begins.
+
+---
 
 ### 29-October, 2020
 
