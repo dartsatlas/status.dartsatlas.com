@@ -15,7 +15,7 @@ Experiencing problems? Reach out through one of our support channels.
 
 ### 22-January, 2021
 
-10:00 - 10:15 Central Time (U.S. & Canada)
+12:15 - 12:30 Central Time (U.S. & Canada)
 
 **Type:**  
 Planned Maintenance
