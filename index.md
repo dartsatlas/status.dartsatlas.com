@@ -1,9 +1,5 @@
 # Darts Atlas Status
 
-## Planned Downtime
-
-Darts Atlas will be temporarily offline on Friday, January 22 for a planned upgrade to v1 of the application.
-
 No issues have been detected or reported.  
 Experiencing problems? Reach out through one of our support channels.
 
