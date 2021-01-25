@@ -13,6 +13,19 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 24-January, 2021
+
+13:00 - 13:20 Central Time (U.S. & Canada)
+
+**Type:**  
+Database Interruption
+
+**Reason(s):**  
+Darts Atlas experienced what we believe to be an automated, untargeted attack attempting to expose a vulnerability in our infrastructure. Thousands of connection requests flooded our databse, resulting in failed responses for a number of players.
+
+**Note(s):**  
+No player data was exposed during the attack, and all data and backups remain unaffected.
+
 ### 22-January, 2021
 
 17:00 - 17:30 Central Time (U.S. & Canada)
