@@ -9,6 +9,19 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 24-February, 2022
+
+10:30am - tbd Central Time (U.S. & Canada)
+
+**Type:**  
+Platform Outage
+
+**Reason(s):**  
+Darts Atlas's primary platform provider, Heroku, is experiencing a widespread outage with their servers. Follow [this twitter thread](https://twitter.com/DartsAtlas/status/1496887810846085120) for updates until the issue is resolved.
+
+**Note(s):**  
+No player data was exposed during the attack, and all data and backups remain unaffected.
+
 ### 24-January, 2021
 
 13:00 - 13:20 Central Time (U.S. & Canada)
