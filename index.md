@@ -11,16 +11,16 @@ Experiencing problems? Reach out through one of our support channels.
 
 ### 24-February, 2022
 
-10:30am - tbd Central Time (U.S. & Canada)
+10:30am - 10:52am Central Time (U.S. & Canada)
 
 **Type:**  
 Platform Outage
 
 **Reason(s):**  
-Darts Atlas's primary platform provider, Heroku, is experiencing a widespread outage with their servers. Follow [this twitter thread](https://twitter.com/DartsAtlas/status/1496887810846085120) for updates until the issue is resolved.
+Darts Atlas's primary platform provider, Heroku, experienced a widespread outage. Darts Atlas became available again following their platform-side fix.
 
 **Note(s):**  
-No player data was exposed during the attack, and all data and backups remain unaffected.
+No data was lost during the outage.
 
 ### 24-January, 2021
 
