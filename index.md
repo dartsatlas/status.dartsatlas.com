@@ -19,6 +19,8 @@ Platform Outage
 **Reason(s):**  
 Darts Atlas's primary platform provider, Heroku, experienced a widespread outage. Darts Atlas became available again following their platform-side fix.
 
+[Heroku Incident](https://status.heroku.com/incidents/2402)
+
 **Note(s):**  
 No data was lost during the outage.
 
