@@ -9,6 +9,18 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 23-August, 2022
+
+6:30pm - 10:52am Central Time (U.S. & Canada)
+
+**Type:**  
+Platform Outage
+
+**Reason(s):**  
+Darts Atlas's primary platform provider, Heroku, is experiencing an upstream DNS issue that is affecting a significant portion of the internet. The site may not be reachable until the issue is fixed.
+
+[Heroku Incident](https://status.heroku.com/incidents/2453)
+
 ### 24-February, 2022
 
 10:30am - 10:52am Central Time (U.S. & Canada)
