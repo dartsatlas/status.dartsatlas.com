@@ -9,6 +9,16 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 15-January, 2023
+
+6:30pm Central Time (U.S. & Canada)
+
+**Type:**  
+Data Migration
+
+**Reason(s):**  
+We noticed an issue with errant ranking points on the ADC tables following a previous data migration. Specifically, players who had played an ADC-sanctioned event *before* creating or renewing their membership had been incorrectly awarded points for their performance in that event. This migration reset the ADC tables to accurately reflect points earned by active members *at the time the tournament was played*.
+
 ### 23-August, 2022
 
 6:30pm - 10:52am Central Time (U.S. & Canada)
