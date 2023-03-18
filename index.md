@@ -12,13 +12,13 @@ Experiencing problems? Reach out through one of our support channels.
 
 ### 17-March, 2023
 
-6:30pm Central Time (U.S. & Canada)
+6:30pm-8:30pm Central Time (U.S. & Canada)
 
 **Type:**  
 Service Disruption
 
 **Reason(s):**  
-We are investigating the cause of this issue.
+A bug was discovered that triggered an infinite loop when creating new matches. This was the result of legacy code which was not intended to accommodate the current volume of Darts Atlas activity. This limitation of scale has been removed and all features are now behaving as normal.
 
 ### 15-January, 2023
 
