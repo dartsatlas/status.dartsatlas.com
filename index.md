@@ -1,7 +1,5 @@
 # Darts Atlas Status
 
-Players are reporting issues with missing ADC points. The current standings reflect a recent _correction_ to the ADC tables. See the latest Incident Report below for details.
-
 Experiencing problems? Reach out through one of our support channels.
 
 - [support@dartsatlas.com](mailto:support@dartsatlas.com)
