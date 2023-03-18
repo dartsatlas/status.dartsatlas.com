@@ -10,6 +10,16 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 17-March, 2023
+
+6:30pm Central Time (U.S. & Canada)
+
+**Type:**  
+Service Disruption
+
+**Reason(s):**  
+We are investigating the cause of this issue.
+
 ### 15-January, 2023
 
 6:30pm Central Time (U.S. & Canada)
