@@ -18,6 +18,8 @@ Temporary Feature Removal
 **Reason(s):**  
 We have temporarily disabled profile photo support while we conduct performance testing. Already-uploaded images will reappear once our testing has concluded.
 
+---
+
 ### 17-March, 2023
 
 6:30pm-8:30pm Central Time (U.S. & Canada)
@@ -28,6 +30,8 @@ Service Disruption
 **Reason(s):**  
 A bug was discovered that triggered an infinite loop when creating new matches. This was the result of legacy code which was not intended to accommodate the current volume of Darts Atlas activity. This limitation of scale has been removed and all features are now behaving as normal.
 
+---
+
 ### 15-January, 2023
 
 6:30pm Central Time (U.S. & Canada)
@@ -37,6 +41,8 @@ Data Migration
 
 **Reason(s):**  
 We noticed an issue with errant ranking points on the ADC tables following a previous data migration. Specifically, players who had played an ADC-sanctioned event *before* creating or renewing their membership had been incorrectly awarded points for their performance in that event. This migration reset the ADC tables to accurately reflect points earned by active members *at the time the tournament was played*.
+
+---
 
 ### 23-August, 2022
 
@@ -49,6 +55,8 @@ Platform Outage
 Darts Atlas's primary platform provider, Heroku, is experiencing an upstream DNS issue that is affecting a significant portion of the internet. The site may not be reachable until the issue is fixed.
 
 [Heroku Incident](https://status.heroku.com/incidents/2453)
+
+---
 
 ### 24-February, 2022
 
@@ -65,6 +73,8 @@ Darts Atlas's primary platform provider, Heroku, experienced a widespread outage
 **Note(s):**  
 No data was lost during the outage.
 
+---
+
 ### 24-January, 2021
 
 13:00 - 13:20 Central Time (U.S. & Canada)
@@ -77,6 +87,8 @@ Darts Atlas experienced what we believe to be an automated, untargeted attack at
 
 **Note(s):**  
 No player data was exposed during the attack, and all data and backups remain unaffected.
+
+---
 
 ### 22-January, 2021
 
