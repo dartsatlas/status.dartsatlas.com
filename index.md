@@ -8,6 +8,16 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 07-April, 2023
+
+6:30am Central Time (U.S. & Canada)
+
+**Type:**  
+Temporary Feature Removal
+
+**Reason(s):**  
+We have temporarily disabled profile photo support while we conduct performance testing. Already-uploaded images will reappear once our testing has concluded.
+
 ### 17-March, 2023
 
 6:30pm-8:30pm Central Time (U.S. & Canada)
