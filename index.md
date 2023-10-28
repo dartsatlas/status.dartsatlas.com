@@ -8,7 +8,7 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
-### 29-October, 2023
+### 29-October, 2023 
 
 9:45am Central Time (U.S. & Canada)
 
