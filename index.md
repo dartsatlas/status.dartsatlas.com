@@ -8,6 +8,20 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 29-October, 2023
+
+9:45am Central Time (U.S. & Canada)
+
+**Type:**  
+Database performance degradation
+
+**Reason(s):**  
+We have temporarily placed Darts Atlas in maintenance mode while we investigate service disruption caused by a database issue.
+
+Our current goal for service restoration is 10:45am Central U.S. Time (16:45GMT).
+
+---
+
 ### 07-April, 2023
 
 6:30am Central Time (U.S. & Canada)
