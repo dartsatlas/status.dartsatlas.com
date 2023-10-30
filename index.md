@@ -13,7 +13,7 @@ Experiencing problems? Reach out through one of our support channels.
 9:45am - 10:20am Central Time (U.S. & Canada)
 
 **Type:**  
-Database performance degradation
+Service Disruption
 
 **Reason(s):**  
 Darts Atlas experienced sitewide service degradation. The cause was identified as a database configuration which was fixed after a brief maintenance window.
