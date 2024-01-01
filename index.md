@@ -8,6 +8,20 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 01-January, 2024
+
+9:00pm - 9:30pm Central Time (U.S. & Canada)
+
+**Type:**
+Planned Maintenance
+
+**Reason(s):**
+The release of Darts Atlas v3 includes a number of database migrations that will require a cessation of platform traffic in order to ensure data integrity.
+
+Happy New Year!
+
+---
+
 ### 29-October, 2023 
 
 9:45am - 10:20am Central Time (U.S. & Canada)
