@@ -10,7 +10,7 @@ Experiencing problems? Reach out through one of our support channels.
 
 ### 01-January, 2024
 
-10:00pm - 10:30pm Central Time (U.S. & Canada)
+9:00pm - 10:00pm Central Time (U.S. & Canada)
 
 **Type:**
 Planned Maintenance
