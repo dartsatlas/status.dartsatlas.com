@@ -8,6 +8,18 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 01-April, 2024
+
+9:00pm - 10:00pm Central Time (U.S. & Canada) (02-April 3:00am - 4:00am BST)
+
+**Type:**
+Planned Maintenance
+
+**Reason(s):**
+Darts Atlas will be performing a database upgrade. The platform will be unavailable during this maintenance window.
+
+---
+
 ### 01-January, 2024
 
 9:00pm - 10:00pm Central Time (U.S. & Canada)
