@@ -10,7 +10,7 @@ Experiencing problems? Reach out through one of our support channels.
 
 ### 28-April, 2024
 
-8:00pm - 9:00pm Central Time (U.S. & Canada) (02-April 2:00am - 3:00am BST)
+8:00pm - 9:00pm Central Time (U.S. & Canada) (29-April 2:00am - 3:00am BST)
 
 **Type:**
 Planned Maintenance
