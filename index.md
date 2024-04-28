@@ -8,9 +8,9 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
-### 01-April, 2024
+### 28-April, 2024
 
-9:00pm - 10:00pm Central Time (U.S. & Canada) (02-April 3:00am - 4:00am BST)
+8:00pm - 9:00pm Central Time (U.S. & Canada) (02-April 2:00am - 3:00am BST)
 
 **Type:**
 Planned Maintenance
