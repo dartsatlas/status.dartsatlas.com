@@ -8,6 +8,22 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 07-October, 2024
+
+2:27pm - 2:52pm Central Time (U.S. & Canada) (07-October 8:27pm - 8:52pm BST)
+
+**Type:**
+Service Disruption
+
+**Reason(s):**
+Amazon Web Services (AWS) exprienced a system failure with one of the services that Darts Atlas uses for file hosting and delivery. Darts Atlas pages containing profile photos or banner images may have experienced slow load times or load failures. The incident was identified and addressed by the AWS team and all Darts Atlas systems returned to their normal operational statuses.
+
+AWS provided the following details about the incident:
+
+> Oct 07 1:19 PM PDT Between 12:27 PM and 12:52 PM PDT we experienced increased API error rates for PUT and GET requests to S3 in the US-EAST-2 Region. Other AWS Services that use PUT and GET S3 APIs were also affected. The error rates have recovered and all services are operating normally. Engineers were automatically engaged immediately and began mitigating the impact and investigating the root cause in parallel. We will post a final update as we validate root cause.
+
+---
+
 ### 28-April, 2024
 
 8:00pm - 9:00pm Central Time (U.S. & Canada) (29-April 2:00am - 3:00am BST)
