@@ -18,6 +18,8 @@ Planned Maintenance
 **Reason(s):**  
 Darts Atlas will be undergoing an extensive data migration in preparation for upcoming feature releases. The platform will be unavailable during this migration window.
 
+---
+
 ### 07-October, 2024
 
 2:27pm - 2:52pm Central Time (U.S. & Canada) (07-October 8:27pm - 8:52pm BST)
