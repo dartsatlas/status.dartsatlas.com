@@ -8,6 +8,16 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 11-December, 2024
+
+7:00pm - 8:00pm Central Time (U.S. & Canada) (12-December 1:00am - 2:00am GMT)
+
+**Type:**  
+Planned Maintenance
+
+**Reason(s):**  
+Darts Atlas will be undergoing an extensive data migration in preparation for upcoming feature releases. The platform will be unavailable during this migration window.
+
 ### 07-October, 2024
 
 2:27pm - 2:52pm Central Time (U.S. & Canada) (07-October 8:27pm - 8:52pm BST)
