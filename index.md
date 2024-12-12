@@ -10,7 +10,7 @@ Experiencing problems? Reach out through one of our support channels.
 
 ### 11-December, 2024
 
-7:00pm - 8:00pm Central Time (U.S. & Canada) (12-December 1:00am - 2:00am GMT)
+11:15pm - 11:45pm Central Time (U.S. & Canada) (12-December 5:15am - 5:45am GMT)
 
 **Type:**  
 Planned Maintenance
