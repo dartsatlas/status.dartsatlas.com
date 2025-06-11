@@ -26,7 +26,7 @@ Salesforce provide the following details about the incident:
 > Update 24: Posted Wed, 11 Jun 2025 05:45:45 UTC
 > The fleetwide update to restore services on all Salesforce Clouds has been completed, with services restored for customers. The out-of-impact time for this incident is 05:00 UTC, June 11, 2025.
 
-[Salesforce Incident](https://status.salesforce.com/generalmessages/10001540)
+[Salesforce Incident](https://status.salesforce.com/generalmessages/10001540)  
 [Heroku Incident](https://status.heroku.com/incidents/2822)
 
 
