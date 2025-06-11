@@ -8,6 +8,31 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 10-June, 2025
+
+12:50pm - 1:20pm Central Time (U.S. & Canada) (10-June 6:50pm - 7:20pm BST)
+
+**Type:**  
+Abnormal Error Rate
+
+**Reason:**  
+Heroku experienced a global service disruption. While the initial disruption did not appear to cause any performance issues on the Darts Atlas platform, there was a temporary and minor disruption during our provider's own service reboot.
+
+Salesforce provide the following details about the incident:
+
+>  Issue: On June 10, 2025, at 06:17 UTC, the Salesforce Technology team became aware of a service disruption that impacted multiple Salesforce Clouds. The team evaluated the impact radius and determined that authentication services for the following clouds had been affected:
+> Commerce Cloud, Core Services, Experience Cloud, Heroku, Marketing Cloud Engagement, Marketing Cloud Account Engagement, Marketing Cloud Intelligence, MuleSoft, Revenue Cloud, Salesforce+ site, Salesforce Chat experience, Service Cloud, and Tableau Cloud.
+> 
+> Update 24: Posted Wed, 11 Jun 2025 05:45:45 UTC
+> The fleetwide update to restore services on all Salesforce Clouds has been completed, with services restored for customers. The out-of-impact time for this incident is 05:00 UTC, June 11, 2025.
+
+[Salesforce Incident](https://status.salesforce.com/generalmessages/10001540)
+[Heroku Incident](https://status.heroku.com/incidents/2822)
+
+
+**Notes:**  
+While our dashboard indicates a significant error rate, we did not receive any reports from customers indicating any issues. Given the nature of this disruption it is worth considering whether those error logs are accurate, or if they are phantom errors that are just another symptom of the deeper-level issue.
+
 ### 11-December, 2024
 
 11:15pm - 11:45pm Central Time (U.S. & Canada) (12-December 5:15am - 5:45am GMT)
