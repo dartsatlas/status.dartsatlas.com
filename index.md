@@ -8,6 +8,16 @@ Experiencing problems? Reach out through one of our support channels.
 
 ## Status History
 
+### 18-July, 2025
+
+11:35pm - 12:15am Central Time (U.S. & Canada) (19-July 5:35pm - 6:15am BST) 
+
+**Type:**  
+Planned Maintenance
+
+**Reason:**  
+We are performing a sensitive database migration that requires platform traffic to be halted.
+
 ### 10-June, 2025
 
 12:50pm - 1:20pm Central Time (U.S. & Canada) (10-June 6:50pm - 7:20pm BST)
