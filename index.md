@@ -10,7 +10,7 @@ Experiencing problems? Reach out through one of our support channels.
 
 ### 18-July, 2025
 
-11:35pm - 12:15am Central Time (U.S. & Canada) (19-July 5:35pm - 6:15am BST) 
+11:35pm - 12:15am Central Time (U.S. & Canada) (19-July 5:35am - 6:15am BST) 
 
 **Type:**  
 Planned Maintenance
