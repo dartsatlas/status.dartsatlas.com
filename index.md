@@ -1,12 +1,21 @@
 # Darts Atlas Status
 
-Experiencing problems? Reach out through one of our support channels.
-
 - [support@dartsatlas.com](mailto:support@dartsatlas.com)
-- [twitter.com/DartsAtlas](https://www.twitter.com/dartsatlas)
-- [facebook.com/DartsAtlas](https://www.facebook.com/dartsatlas)
 
 ## Status History
+
+### 03-August, 2025
+
+08:00am - 09:00am Central Time (U.S. & Canada) (19-July 1:00pm - 2:00pm BST) 
+
+**Type:**  
+Service Disruption
+
+**Reason:**  
+Our Web Application Firewall provider began sending the incorrect SSL certificate to establish secure connections, causing certain browsers to reject the request and block access to the Darts Atlas platform.
+
+**Notes:**  
+10:40am - We are still waiting for an update from our firewall provider as to the root cause
 
 ### 18-July, 2025
 
