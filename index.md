@@ -12,7 +12,7 @@
 Platform Outage
 
 **Reason:**  
-Amazon Web Services experienced a global platform disruption on 20 October, 2025 lasting approximately 15 hours from 2am to 5pm Central U.S. Time. A number of critical web platforms such as Darts Atlas, Facebook, Coinbase, and Atlassian experienced critical disruptions during this time.
+Amazon Web Services experienced a global platform disruption on 20 October, 2025 lasting approximately 15 hours from 2am to 5pm Central U.S. Time. A number of major web platforms such as Darts Atlas, Facebook, Coinbase, and Atlassian experienced critical disruptions during this time.
 
 Final incident logs from Amazon Web Services and from Salesforce will be linked here once they are published.
 
