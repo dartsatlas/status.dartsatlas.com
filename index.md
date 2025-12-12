@@ -4,6 +4,16 @@
 
 ## Status History
 
+### 11-December, 2025
+
+08:00pm - 08:15pm Central Time (U.S. & Canada) (12-December 02:00am - 02:15am GMT) 
+
+**Type:**  
+Platform Update
+
+**Reason:**  
+Darts Atlas will be temporarily unavailable while v4 is deployed
+
 ### 20-October, 2025
 
 10:25am - 12:00pm Central Time (U.S. & Canada) (20-October 4:25pm - 6:00pm BST) 
