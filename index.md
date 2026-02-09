@@ -4,6 +4,16 @@
 
 ## Status History
 
+### 8-February, 2025
+
+09:00pm - 10:00pm Central Time (U.S. & Canada) (9-February 04:00am - 05:00am GMT) 
+
+**Type:**  
+Database Maintenance
+
+**Reason:**  
+Darts Atlas will be performing database maintenance
+
 ### 11-December, 2025
 
 08:00pm - 08:15pm Central Time (U.S. & Canada) (12-December 02:00am - 02:15am GMT) 
