@@ -6,7 +6,7 @@
 
 ### 8-February, 2025
 
-09:00pm - 10:00pm Central Time (U.S. & Canada) (9-February 04:00am - 05:00am GMT) 
+09:00pm - 10:00pm Central Time (U.S. & Canada) (9-February 03:00am - 04:00am GMT) 
 
 **Type:**  
 Database Maintenance
