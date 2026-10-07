@@ -4,6 +4,19 @@
 
 ## Status History
 
+### 6-October, 2026
+
+04:45pm - 05:30pm Central Time (U.S. & Canada) (09:45pm - 10:30pm GMT) 
+
+**Type:**  
+Infrastructure Failure
+
+**Reason:**  
+One of our service providers experienced a hardware failure that disrupted access to our primary database. This failure was identified and fixed automatically. Upon restoration, however, services remained degraded as the database came back online and restored its cache. Service returned to normal levels once the restoration was complete.
+
+**Notes:**  
+We are re-examining our database failover handling to ensure that a Replica database is promoted as soon as any disruption is identified on the Primary database.
+
 ### 8-February, 2026
 
 09:00pm - 10:00pm Central Time (U.S. & Canada) (9-February 03:00am - 04:00am GMT) 
@@ -34,7 +47,7 @@ Platform Outage
 **Reason:**  
 Amazon Web Services experienced a global platform disruption on 20 October, 2025 lasting approximately 15 hours from 2am to 5pm Central U.S. Time. A number of major web platforms such as Darts Atlas, Facebook, Coinbase, and Atlassian experienced critical disruptions during this time.
 
-Final incident logs from Amazon Web Services and from Salesforce will be linked here once they are published.
+[AWS Post-Incident Report](https://aws.amazon.com/message/101925/)
 
 ### 03-August, 2025
 
