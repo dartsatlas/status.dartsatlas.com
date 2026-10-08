@@ -4,9 +4,19 @@
 
 ## Status History
 
-### 6-October, 2026
+### 8-October, 2026
 
-04:45pm - 05:30pm Central Time (U.S. & Canada) (09:45pm - 10:30pm GMT) 
+04:00am - 05:30am Central Time (U.S. & Canada) (10:00am - 11:30am GMT) 
+
+**Type:**  
+Planned Maintenance
+
+**Reason:**  
+We will be performing platform maintenance which will require us to temporarily take the application offline. We anticipate two maintenance windows, each lasting 1 to 2 minutes.
+
+### 6-7-October, 2026
+
+03:45pm - 04:30pm Central Time (U.S. & Canada) (09:45pm - 10:30pm GMT) 
 
 **Type:**  
 Infrastructure Failure
